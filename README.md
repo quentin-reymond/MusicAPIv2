@@ -393,8 +393,8 @@ Body :
 
 ```json
 {
-  "username": "SaintMichel",
-  "password": "ITcampus"
+  "username": "...",
+  "password": "..."
 }
 ```
 
