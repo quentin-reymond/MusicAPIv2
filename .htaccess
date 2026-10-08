@@ -1,0 +1,13 @@
+Options All -Indexes
+
+<Files ".htaccess">
+    Require all denied
+</Files>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Rediriger vers le dossier public
+    RewriteRule ^$ public/ [L]
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
