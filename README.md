@@ -177,7 +177,7 @@ GET https://qre.alwaysdata.net/artists
 
 ---
 
-# 📚 Routes disponibles
+# 📚 Endpoints disponibles
 
 ## 🎤 Artists
 
